@@ -1,0 +1,14 @@
+F:\Interfaces\Practica2\3 en raya\Juego 3 en raya\Juego 3 en raya\bin\Debug\net8.0\Juego 3 en raya.exe
+F:\Interfaces\Practica2\3 en raya\Juego 3 en raya\Juego 3 en raya\bin\Debug\net8.0\Juego 3 en raya.deps.json
+F:\Interfaces\Practica2\3 en raya\Juego 3 en raya\Juego 3 en raya\bin\Debug\net8.0\Juego 3 en raya.runtimeconfig.json
+F:\Interfaces\Practica2\3 en raya\Juego 3 en raya\Juego 3 en raya\bin\Debug\net8.0\Juego 3 en raya.dll
+F:\Interfaces\Practica2\3 en raya\Juego 3 en raya\Juego 3 en raya\bin\Debug\net8.0\Juego 3 en raya.pdb
+F:\Interfaces\Practica2\3 en raya\Juego 3 en raya\Juego 3 en raya\obj\Debug\net8.0\Juego 3 en raya.GeneratedMSBuildEditorConfig.editorconfig
+F:\Interfaces\Practica2\3 en raya\Juego 3 en raya\Juego 3 en raya\obj\Debug\net8.0\Juego 3 en raya.AssemblyInfoInputs.cache
+F:\Interfaces\Practica2\3 en raya\Juego 3 en raya\Juego 3 en raya\obj\Debug\net8.0\Juego 3 en raya.AssemblyInfo.cs
+F:\Interfaces\Practica2\3 en raya\Juego 3 en raya\Juego 3 en raya\obj\Debug\net8.0\Juego 3 en raya.csproj.CoreCompileInputs.cache
+F:\Interfaces\Practica2\3 en raya\Juego 3 en raya\Juego 3 en raya\obj\Debug\net8.0\Juego 3 en raya.dll
+F:\Interfaces\Practica2\3 en raya\Juego 3 en raya\Juego 3 en raya\obj\Debug\net8.0\refint\Juego 3 en raya.dll
+F:\Interfaces\Practica2\3 en raya\Juego 3 en raya\Juego 3 en raya\obj\Debug\net8.0\Juego 3 en raya.pdb
+F:\Interfaces\Practica2\3 en raya\Juego 3 en raya\Juego 3 en raya\obj\Debug\net8.0\Juego 3 en raya.genruntimeconfig.cache
+F:\Interfaces\Practica2\3 en raya\Juego 3 en raya\Juego 3 en raya\obj\Debug\net8.0\ref\Juego 3 en raya.dll
