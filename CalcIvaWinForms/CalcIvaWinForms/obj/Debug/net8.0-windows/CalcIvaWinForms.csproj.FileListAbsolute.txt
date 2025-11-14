@@ -1,0 +1,16 @@
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\bin\Debug\net8.0-windows\CalcIvaWinForms.exe
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\bin\Debug\net8.0-windows\CalcIvaWinForms.deps.json
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\bin\Debug\net8.0-windows\CalcIvaWinForms.runtimeconfig.json
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\bin\Debug\net8.0-windows\CalcIvaWinForms.dll
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\bin\Debug\net8.0-windows\CalcIvaWinForms.pdb
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\obj\Debug\net8.0-windows\CalcIvaWinForms.Form1.resources
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\obj\Debug\net8.0-windows\CalcIvaWinForms.csproj.GenerateResource.cache
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\obj\Debug\net8.0-windows\CalcIvaWinForms.GeneratedMSBuildEditorConfig.editorconfig
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\obj\Debug\net8.0-windows\CalcIvaWinForms.AssemblyInfoInputs.cache
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\obj\Debug\net8.0-windows\CalcIvaWinForms.AssemblyInfo.cs
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\obj\Debug\net8.0-windows\CalcIvaWinForms.csproj.CoreCompileInputs.cache
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\obj\Debug\net8.0-windows\CalcIvaWinForms.dll
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\obj\Debug\net8.0-windows\refint\CalcIvaWinForms.dll
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\obj\Debug\net8.0-windows\CalcIvaWinForms.pdb
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\obj\Debug\net8.0-windows\CalcIvaWinForms.genruntimeconfig.cache
+F:\Interfaces\Practica3\CalcIvaWinForms\CalcIvaWinForms\obj\Debug\net8.0-windows\ref\CalcIvaWinForms.dll
